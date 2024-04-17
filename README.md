@@ -1,6 +1,6 @@
 # Analise-de-Dados
 
-> Foi criada uma tabela no Jupyter Notebook, atráves de um dicionario.
+> Foi criada uma tabela no Jupyter Notebook, atráves de uma lista feita em Python.
 
 # A partir dessa tabela, criei uma tabela visual com o pandas.
 
