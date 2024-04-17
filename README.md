@@ -1,6 +1,6 @@
 # Analise-de-Dados
 
-# Foi criada uma tabela no Jupyter Notebook, atráves de um dicionario.
+> Foi criada uma tabela no Jupyter Notebook, atráves de um dicionario.
 
 # A partir dessa tabela, criei uma tabela visual com o pandas.
 
@@ -22,7 +22,7 @@
 ![image](https://github.com/brunogboy/Analise-de-Dados/assets/165103663/c16e4721-7505-4bc2-b5c9-858464e73fdb)
 
 
-# E por ultimo, para uma melhor visualização, criei um gráfico geral para apresentar a ele.
+# E por último, para uma melhor visualização, criei um gráfico geral para apresentar a ele.
 
 
 
